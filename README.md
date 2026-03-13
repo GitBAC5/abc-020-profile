@@ -1,7 +1,7 @@
 # profile
-This is a personal website about myself Peo Mogogi.It specifies- 
+This is a personal website about myself Shawn Motswetla.It specifies- 
 my personal details
-my  educational details
+my  education details
 software development experience
 work experience
 my hobbies
